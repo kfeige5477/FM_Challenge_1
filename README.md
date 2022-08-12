@@ -22,8 +22,8 @@ My first attempt at the QR code component challenge as a beginner front-end code
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://kfeige5477.github.io/FM_Challenge_1/)
+- Solution URL: [Add solution URL here]
+- Live Site URL: [https://kfeige5477.github.io/FM_Challenge_1/]
 
 ## My process
 
